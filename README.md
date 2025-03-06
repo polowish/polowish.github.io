@@ -12,5 +12,5 @@
 - Optimizing **machine learning workflows** for scientific applications  
 
 ## 🚀 Fun Side Projects  
-- **ENIGMA decoder using transformer neural network architecture**
+- **ENIGMA decoder using a transformer model**
 
