@@ -7,7 +7,7 @@
 - **Scientific Computing & Machine Learning** 
 
 ## 📚 Currently Learning  
-- **probability theory**  😔
+- **probability theory**  
 - **manifold learning** for application in protein dynamics
 - Optimizing **machine learning workflows** for scientific applications  
 
