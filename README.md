@@ -1,4 +1,3 @@
-# polowish.github.io
 
 # Checkout my stuff! 🦖 
 
